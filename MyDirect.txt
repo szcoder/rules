@@ -1,3 +1,35 @@
 DOMAIN-SUFFIX,realtoxmedia.de
 DOMAIN-SUFFIX,racknerd.com
 DOMAIN-SUFFIX,602609.xyz
+DOMAIN-SUFFIX,crashlytics.com
+
+# 汇丰银行 (HSBC HK)
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbchbwm.com
+DOMAIN,cdnbc.wup.hsbc.com.hk
+DOMAIN,hsbc.edge.sdk.awswaf.com
+DOMAIN,c-hsbc.lytics.io
+
+# 中银香港 (BOCHK)
+DOMAIN-SUFFIX,bochk.com
+
+# 渣打银行 (Standard Chartered HK)
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,sc.com.hk
+
+# 恒生银行 (Hang Seng Bank)
+DOMAIN-SUFFIX,hangseng.com
+
+# 众安银行 (ZA Bank)
+DOMAIN-SUFFIX,zabank.com
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,zainvest.group
+DOMAIN-SUFFIX,zajourney.com
+
+# 天星银行 (Airstar Bank)
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,elebank.com
+
+# 蚂蚁银行 (Ant Bank HK)
+DOMAIN-SUFFIX,antbank.hk
